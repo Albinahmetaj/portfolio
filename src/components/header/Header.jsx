@@ -1,7 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import './header.css'
-import SelfImg from '../../assets/self-portrait.jpg'
+import SelfImg from '../../assets/portfoliopic.png'
 
 function Header() {
   return (
@@ -12,7 +12,7 @@ function Header() {
     <h5 className='text-light'>Fullstack Utvecklare</h5>
     <CTA/>
     <div className='self-portrait'>
-      <img src={SelfImg} alt="me" style={{width:'300px'}}/>
+      <img src={SelfImg} alt="me" style={{width:'400px'}}/>
       </div>
       <a href="#contact" className='scroll-down'>Scrolla Ner</a>
     
