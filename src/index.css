@@ -36,7 +36,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/gplay.png);
+    background-image: url(../src/assets/dark-brick-wall.png);
 }
 
 .container{
