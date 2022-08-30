@@ -1,7 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import './header.css'
-import SelfImg from '../../assets/portfoliopic.png'
+import SelfImg from '../../assets/portfolio-pic2.png'
 import HeaderSocials from './HeaderSocials'
 
 function Header() {
@@ -14,10 +14,18 @@ function Header() {
     <CTA/>
     <HeaderSocials/>
     <div className='self-portrait'>
-      <img src={SelfImg} alt="me"/>
+      <img src={SelfImg} alt="me" style={{width:'310px',height:'500px'}} />
       </div>
       <a href="#contact" className='scroll-down'>Scrolla Ner</a>
-    
+    <div class="mouse_scroll">
+
+		
+		<div>
+			<span class="m_scroll_arrows unu"></span>
+			<span class="m_scroll_arrows doi"></span>
+			<span class="m_scroll_arrows trei"></span>
+		</div>
+</div>
     </div>
     </header>
   )
