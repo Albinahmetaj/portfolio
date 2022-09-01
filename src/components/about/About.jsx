@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import MeImg from '../../assets/me.jpg'
+import MeImg from '../../assets/portfoliopic4.png'
 import {AiOutlineTrophy} from 'react-icons/ai'
 import {HiOutlineUsers} from 'react-icons/hi'
 import {AiOutlineFileDone} from 'react-icons/ai'
@@ -14,7 +14,7 @@ function about() {
 
       <div className='container about-container'>
       <div className='about-me'>
-      <img className='aboutme-image' src={MeImg} alt="" style={{width:'300px', height:'500px'}}/>
+      <img className='aboutme-image' src={MeImg} alt="" style={{width:'438px', height:'588px'}}/>
       </div>
       <div className='about-content'>
       <div className='about-card'>
