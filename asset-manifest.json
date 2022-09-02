@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dabbbd3f.css",
-    "main.js": "/portfolio/static/js/main.45a98d64.js",
+    "main.css": "/portfolio/static/css/main.82d27a8a.css",
+    "main.js": "/portfolio/static/js/main.ee235df5.js",
+    "static/media/portfoliopic4.png": "/portfolio/static/media/portfoliopic4.48b204db50c5d9d1e6ad.png",
     "static/media/portfolio-pic2.png": "/portfolio/static/media/portfolio-pic2.8453930dc2443c570a52.png",
     "static/media/CV-Systemutvecklare.pdf": "/portfolio/static/media/CV-Systemutvecklare.aa596f13c1366eba0eb1.pdf",
     "index.html": "/portfolio/index.html",
-    "main.dabbbd3f.css.map": "/portfolio/static/css/main.dabbbd3f.css.map",
-    "main.45a98d64.js.map": "/portfolio/static/js/main.45a98d64.js.map"
+    "main.82d27a8a.css.map": "/portfolio/static/css/main.82d27a8a.css.map",
+    "main.ee235df5.js.map": "/portfolio/static/js/main.ee235df5.js.map"
   },
   "entrypoints": [
-    "static/css/main.dabbbd3f.css",
-    "static/js/main.45a98d64.js"
+    "static/css/main.82d27a8a.css",
+    "static/js/main.ee235df5.js"
   ]
 }
