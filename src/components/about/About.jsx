@@ -14,10 +14,10 @@ function about() {
 
       <div className='container about-container'>
       <div className='about-me'>
-      <img className='aboutme-image' src={MeImg} alt="" style={{width:'438px', height:'588px'}}/>
+      <img className='aboutme-image' src={MeImg} alt="" style={{width:'280px', height:'400px'}}/>
       </div>
       <div className='about-content'>
-      <div className='about-card'>
+      <div className='about-cards'>
         <article className='about-card'>
           <AiOutlineTrophy className='about-icon'/>
         <h5>
@@ -41,14 +41,16 @@ function about() {
         </h5>
         <small>+10 Avslutade Projekt</small>
         </article>
-<p>
+
+
+
+      </div>
+      <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. 
   Mollitia iure reprehenderit perferendis ipsa molestiae ipsam quo unde nostrum, provident dolore aliquam, 
   quidem voluptate, rem consectetur expedita dignissimos laborum sunt explicabo.
 </p>
-
-<a href="#contact" className='btn btn-primary'>Låt Oss Prata</a>
-      </div>
+      <a href="#contact" className='btn btn-primary' style={{background:'#0b6db3', color:'white'}}>Låt Oss Prata</a>
       </div>
 
       </div>
