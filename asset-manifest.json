@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.88c4cf9f.css",
-    "main.js": "/portfolio/static/js/main.4a064a01.js",
+    "main.js": "/portfolio/static/js/main.d9b24812.js",
     "static/media/portfoliopic4.png": "/portfolio/static/media/portfoliopic4.48b204db50c5d9d1e6ad.png",
     "static/media/portfolio-pic2.png": "/portfolio/static/media/portfolio-pic2.8453930dc2443c570a52.png",
     "static/media/Spelkarta.PNG": "/portfolio/static/media/Spelkarta.5063ac767a7105b919dd.PNG",
     "static/media/CV-Systemutvecklare.pdf": "/portfolio/static/media/CV-Systemutvecklare.aa596f13c1366eba0eb1.pdf",
     "index.html": "/portfolio/index.html",
     "main.88c4cf9f.css.map": "/portfolio/static/css/main.88c4cf9f.css.map",
-    "main.4a064a01.js.map": "/portfolio/static/js/main.4a064a01.js.map"
+    "main.d9b24812.js.map": "/portfolio/static/js/main.d9b24812.js.map"
   },
   "entrypoints": [
     "static/css/main.88c4cf9f.css",
-    "static/js/main.4a064a01.js"
+    "static/js/main.d9b24812.js"
   ]
 }
