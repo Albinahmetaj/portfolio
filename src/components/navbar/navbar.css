@@ -29,6 +29,6 @@ nav a:hover{
 }
 
 nav a.active{
-    background:#2b2b4c;
-    color: var(--color-light);
+    background:var(--color-primary);
+    color: var(--color-bg);
 }

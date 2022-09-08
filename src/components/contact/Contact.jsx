@@ -2,9 +2,26 @@ import React from 'react'
 import './contact.css'
 import {HiOutlineMail} from 'react-icons/hi';
 import {TbBrandMessenger} from 'react-icons/tb';
-import {FiPhoneCall} from 'react-icons/fi'
+import {FiPhoneCall} from 'react-icons/fi';
+import { useRef } from 'react';
+import emailjs from 'emailjs-com';
+
+
+
 
 function Contact() {
+
+   
+  const form = useRef();
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_06f2dtr', 'template_w440deq', form.current, 'z8dWTQPITIBIMXii4')
+    alert('Meddelandet har skickats');
+      e.target.reset();
+  };
+
+  
   return (
     <section id="contact">
       <h5>Låt Oss Ta Kontakt</h5>
@@ -31,12 +48,14 @@ function Contact() {
   <a href="tel:+46723981601" target="_blank">Ring</a>
 </article>
     </div>
-    <form action="">
-      <input type="text" name='name' placeholder="Ditt Fullständiga Famn" required/>
+    <form ref={form} onSubmit={sendEmail}>
+      <input type="text" name='name' placeholder="Ditt Fullständiga Namn" required/>
       <input type="email" name='email' placeholder="Din E-Mail" required/>
       <textarea name='message' rows="7" placeholder='Ditt Meddelande' required/>
-      <button type="submit" className="btn btn-primary">Skicka Meddelande</button>
-    </form>
+      <button type="submit" className="btn btn-primary">Skicka Meddelande </button>
+      
+      
+      </form>
       </div>
     </section>
   )
