@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9dd2106c.css",
-    "main.js": "/portfolio/static/js/main.15cd36bb.js",
-    "static/media/RPG-GAME.mp4": "/portfolio/static/media/RPG-GAME.7cd8cd1b22ec5fe54932.mp4",
+    "main.js": "/portfolio/static/js/main.bf4d2306.js",
+    "static/media/RPG-GAME.mp4": "/portfolio/static/media/RPG-GAME.3c41d29206278c8ea461.mp4",
     "static/media/portfoliopic4.png": "/portfolio/static/media/portfoliopic4.48b204db50c5d9d1e6ad.png",
     "static/media/portfolio-pic2.png": "/portfolio/static/media/portfolio-pic2.8453930dc2443c570a52.png",
     "static/media/Spelkarta.PNG": "/portfolio/static/media/Spelkarta.5063ac767a7105b919dd.PNG",
     "static/media/CV.pdf": "/portfolio/static/media/CV.82f7fa5389635c289ef1.pdf",
     "index.html": "/portfolio/index.html",
     "main.9dd2106c.css.map": "/portfolio/static/css/main.9dd2106c.css.map",
-    "main.15cd36bb.js.map": "/portfolio/static/js/main.15cd36bb.js.map"
+    "main.bf4d2306.js.map": "/portfolio/static/js/main.bf4d2306.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd2106c.css",
-    "static/js/main.15cd36bb.js"
+    "static/js/main.bf4d2306.js"
   ]
 }
