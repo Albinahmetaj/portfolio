@@ -1,6 +1,5 @@
 import React from 'react'
 import './experience.css'
-import {HiBadgeCheck} from 'react-icons/hi'
 import {BsFillPatchCheckFill} from 'react-icons/bs'
 
 function Experience() {
@@ -24,27 +23,34 @@ function Experience() {
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
 <h4>CSS</h4>
-<small className="text-light">Mellanliggande</small>
-</div>
-</article>
-<article className="experience-details"> 
-<BsFillPatchCheckFill className="experience-details-icon"/>
-<div>
-<h4>Javascript</h4>
 <small className="text-light">Erfaren</small>
 </div>
 </article>
 <article className="experience-details"> 
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
-<h4>Bootstrap</h4>
+<h4>Javascript</h4>
 <small className="text-light">Mellanliggande</small>
 </div>
 </article>
 <article className="experience-details"> 
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
+<h4>Bootstrap</h4>
+<small className="text-light">Erfaren</small>
+</div>
+</article>
+<article className="experience-details"> 
+<BsFillPatchCheckFill className="experience-details-icon"/>
+<div>
 <h4>React</h4>
+<small className="text-light">Erfaren</small>
+</div>
+</article>
+<article className="experience-details"> 
+<BsFillPatchCheckFill className="experience-details-icon"/>
+<div>
+<h4>Material-UI</h4>
 <small className="text-light">Erfaren</small>
 </div>
 </article>
@@ -80,6 +86,14 @@ function Experience() {
 <div>
 <h4>Node.JS</h4>
 <small className="text-light">Basic</small>
+</div>
+</article>
+
+<article className="experience-details"> 
+<BsFillPatchCheckFill className="experience-details-icon"/>
+<div>
+<h4>Javascript</h4>
+<small className="text-light">Mellanliggande</small>
 </div>
 </article>
 

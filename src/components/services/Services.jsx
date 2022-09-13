@@ -5,7 +5,7 @@ import {BsCheck2Circle} from 'react-icons/bs'
 function Services() {
   return (
     <section id="services">
-      <h5>Vad Jag Har Att Erbjuda</h5>
+      <h5>Vad Har Jag Att Erbjuda?</h5>
       <h2>Tjänster</h2>
 
       <div className='container service-container'>
@@ -16,23 +16,27 @@ function Services() {
       <ul className="service-list">
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p> Skapa spelkarta i 2d.</p>
+      </li>
+      <li>
+<BsCheck2Circle className="service-list-icon" style={{fontSize:'25px'}}/>
+<p>Skapa och använda olika brickuppsättningar beroende på spelstil.</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Karaktärrörelse med hjälp utav eventlisteners.</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Upptäcka och skapa kollisioner.</p>
       </li>
       <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<BsCheck2Circle className="service-list-icon" style={{fontSize:'25px'}}/>
+<p>Övergångar genom olika moment/beståndsdelar i spelet</p>
       </li>
       <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<BsCheck2Circle className="service-list-icon" style={{fontSize:'22px'}}/>
+<p>Lägga till interaktion med andra spelare (NPC)</p>
       </li>
       </ul>
       </article>
@@ -43,24 +47,28 @@ function Services() {
       </div>
       <ul className="service-list">
       <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<BsCheck2Circle className="service-list-icon" style={{fontSize:'30px'}}/>
+<p>Full-Stack Webbutveckling av projekt som kräver end-to-end cykelhantering</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>E-handel applikationer</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Anpassade webbapplikationer</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>QA & Testing</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Webbsupport och underhåll</p>
+      </li>
+      <li>
+<BsCheck2Circle className="service-list-icon" style={{fontSize:'32px'}}/>
+<p>Användning av olika agila utvecklingsmetoder som kanban/scrum mm...</p>
       </li>
       </ul>
       </article>
@@ -72,24 +80,17 @@ function Services() {
       <ul className="service-list">
       <li>
 <BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Strukturera system med hjälp utav klassdiagram</p>
       </li>
       <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<BsCheck2Circle className="service-list-icon"style={{fontSize:'35px'}}/>
+<p>Hjälp utvecklare att specificera, visualisera, konstruera och dokumentera artefakter av ett mjukvarusystem</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"n/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+<p>Objektdiagram</p>
       </li>
-      <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      </li>
-      <li>
-<BsCheck2Circle className="service-list-icon"/>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      </li>
+      
       </ul>
       </article>
 

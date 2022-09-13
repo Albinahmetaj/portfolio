@@ -7,7 +7,7 @@ const data=[
 {
   id: 1,
   image: GameImg,
-  title: '2d Spelutveckling',
+  title: 'RPG-Spel 2d',
   github: 'https://github.com',
   demo:'https://www.vimeo.com'
 },
