@@ -50,7 +50,7 @@ function about() {
   Hejsan. <br/>
   Mitt namn är Albin, jag är 26 år gammal och är bosatt i den lilla kuststaden Falkenberg. En nyexaminerad student som på fritiden älskar att träna, fiska, läsa, resa, teknik, umgås med vänner
    och familj, där jag har utfört min tvåårs utbildning i grannstaden Varberg, under programmet Systemutveckling.NET på högskolan Campus Varberg. <br/> <br/> Jag är i jakt efter ett jobb inom systemutveckling och problemlösningsbranschen
-   där jag vet att min tidigare erfarenhet har gett mig de kunskaper som är nödvändiga för att kunna lära mig och hantera de arbetsuppgifter som ingår i rollen som programmerare, men även expertis som låter mig lära samt fånga in nya system och programmeringsspråk.
+   där jag vet att min tidigare erfarenhet har gett mig de kunskaper som är nödvändiga för att kunna lära mig och hantera de arbetsuppgifter som ingår i rollen som programmerare och även expertis som låter mig fånga samt lära in nya system och programmeringsspråk.
    Jag hoppas att jag är rätt person för dig som tittar in och hoppas att få chansen att träffa er så att jag kan berätta mer om mig själv.
 </p>
       <a href="#contact" className='btn btn-primary' style={{background:'#0b6db3', color:'white'}}>Låt Oss Prata <BsFillChatDotsFill style={{marginLeft:'5px'}}/> </a>

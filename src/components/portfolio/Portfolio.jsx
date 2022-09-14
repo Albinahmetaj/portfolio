@@ -1,6 +1,16 @@
 import React from 'react'
 import './portfolio.css'
-import GameImg from '../../assets/Spelkarta.PNG'
+import GameImg from '../../assets/RPGIMG.PNG'
+import PortfolioIMG from '../../assets/undraw_Portfolio.png'
+import eCommerceIMG from '../../assets/undraw_web_shopping.png'
+import CoursebookingIMG from '../../assets/undraw_Bookin.png'
+import PhotoGalleryIMG from '../../assets/undraw_photo.png'
+import RPGVid from '../../assets/RPG-GAME.mp4'
+import PhotogalleryVid from '../../assets/PhotoGallery.mp4'
+import EhandelVID from '../../assets/Ehandel.mp4'
+import KursbokningVid from '../../assets/Kurs-bokningVid.mp4'
+import HöglagerVID from '../../assets/höglager.mp4'
+import HeavyBoxIMG from '../../assets/undraw_heavy_box.png'
 
 
 const data=[
@@ -8,43 +18,43 @@ const data=[
   id: 1,
   image: GameImg,
   title: 'RPG-Spel 2d',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  github: 'https://github.com/Albinahmetaj/RPG-Game',
+  demo:RPGVid
 },
 {
   id: 2,
-  image: GameImg,
-  title: '2d Spelutveckling',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  image: PortfolioIMG,
+  title: 'Portfölj',
+  github: 'https://github.com/Albinahmetaj/portfolio',
+  demo:'https://albinahmetaj.github.io/portfolio/'
 },
 {
   id: 3,
-  image: GameImg,
-  title: '2d Spelutveckling',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  image: eCommerceIMG,
+  title: 'E-handelsapplikation',
+  github: 'https://github.com/Albinahmetaj/Complete-ecommerce-mvcapp',
+  demo:EhandelVID
 },
 {
   id: 4,
-  image: GameImg,
-  title: '2d Spelutveckling',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  image: CoursebookingIMG,
+  title: 'Kurs-bokningssystem',
+  github: 'https://github.com/Albinahmetaj/ChalmersBookingsystem',
+  demo:KursbokningVid
 },
 {
   id: 5,
-  image: GameImg,
-  title: '2d Spelutveckling',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  image: PhotoGalleryIMG,
+  title: 'Fotogalleri',
+  github: 'https://github.com/Albinahmetaj/Photo-Gallery',
+  demo:PhotogalleryVid
 },
 {
   id: 6,
-  image: GameImg,
-  title: '2d Spelutveckling',
-  github: 'https://github.com',
-  demo:'https://www.vimeo.com'
+  image: HeavyBoxIMG,
+  title: 'Höglagersystem',
+  github: 'https://github.com/Albinahmetaj/Warehouse_Project',
+  demo:HöglagerVID
 },
 ]
 
@@ -53,7 +63,7 @@ function Portfolio() {
   return (
     <section id="portfolio">
       <h5>Mina Projekt</h5>
-      <h2>Portfolio</h2>
+      <h2>Portfölj</h2>
 
       <div className="container portfolio-container">
        {
@@ -61,7 +71,7 @@ function Portfolio() {
           return(
             <article key={id} className='portfolio-item'>
             <div className="portfolio-item-image">
-              <img src={image} alt={title}/>
+              <img src={image} style={{height:'280px'}} alt={title}/>
               
             </div>
             

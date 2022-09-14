@@ -84,7 +84,7 @@ function Services() {
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"style={{fontSize:'35px'}}/>
-<p>Hjälp utvecklare att specificera, visualisera, konstruera och dokumentera artefakter av ett mjukvarusystem</p>
+<p>Hjälpa utvecklare att specificera, visualisera, konstruera och dokumentera artefakter av ett mjukvarusystem</p>
       </li>
       <li>
 <BsCheck2Circle className="service-list-icon"n/>
