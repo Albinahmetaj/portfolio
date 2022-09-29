@@ -30,7 +30,7 @@ function Experience() {
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
 <h4>Javascript</h4>
-<small className="text-light">Mellanliggande</small>
+<small className="text-light">Erfaren</small>
 </div>
 </article>
 <article className="experience-details"> 
@@ -85,7 +85,7 @@ function Experience() {
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
 <h4>Node.JS</h4>
-<small className="text-light">Basic</small>
+<small className="text-light">Mellanliggande</small>
 </div>
 </article>
 
@@ -93,7 +93,7 @@ function Experience() {
 <BsFillPatchCheckFill className="experience-details-icon"/>
 <div>
 <h4>Javascript</h4>
-<small className="text-light">Mellanliggande</small>
+<small className="text-light">Erfaren</small>
 </div>
 </article>
 

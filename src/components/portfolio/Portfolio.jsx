@@ -1,16 +1,16 @@
 import React from 'react'
 import './portfolio.css'
 import GameImg from '../../assets/RPGIMG.PNG'
-import PortfolioIMG from '../../assets/undraw_Portfolio.png'
-import eCommerceIMG from '../../assets/undraw_web_shopping.png'
-import CoursebookingIMG from '../../assets/undraw_Bookin.png'
-import PhotoGalleryIMG from '../../assets/undraw_photo.png'
+import PortfolioIMG from '../../assets/Portfolio.png'
+import eCommerceIMG from '../../assets/web_shopping.png'
+import CoursebookingIMG from '../../assets/Bookin.png'
+import PhotoGalleryIMG from '../../assets/photo.png'
 import RPGVid from '../../assets/RPG-GAME.mp4'
 import PhotogalleryVid from '../../assets/PhotoGallery.mp4'
 import EhandelVID from '../../assets/Ehandel.mp4'
 import KursbokningVid from '../../assets/Kurs-bokningVid.mp4'
 import HöglagerVID from '../../assets/höglager.mp4'
-import HeavyBoxIMG from '../../assets/undraw_heavy_box.png'
+import HeavyBoxIMG from '../../assets/heavy_box.png'
 
 
 const data=[
