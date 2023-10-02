@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9dd2106c.css",
-    "main.js": "/portfolio/static/js/main.c4571557.js",
+    "main.js": "/portfolio/static/js/main.70101eed.js",
     "static/media/Kurs-bokningVid.mp4": "/portfolio/static/media/Kurs-bokningVid.2dc2e5aab5ebb0880f22.mp4",
     "static/media/RPG-GAME.mp4": "/portfolio/static/media/RPG-GAME.3c41d29206278c8ea461.mp4",
     "static/media/PhotoGallery.mp4": "/portfolio/static/media/PhotoGallery.5a69d1c0bbb266880214.mp4",
@@ -10,18 +10,18 @@
     "static/media/portfoliopic4.png": "/portfolio/static/media/portfoliopic4.48b204db50c5d9d1e6ad.png",
     "static/media/portfolio-pic2.png": "/portfolio/static/media/portfolio-pic2.8453930dc2443c570a52.png",
     "static/media/RPGIMG.PNG": "/portfolio/static/media/RPGIMG.c68428db41b0c7da00cd.PNG",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.d28bac9e4f64b32a19d8.pdf",
     "static/media/heavy_box.png": "/portfolio/static/media/heavy_box.36c50c22ac9214503b7d.png",
     "static/media/web_shopping.png": "/portfolio/static/media/web_shopping.924abc4856fb8f56c426.png",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.0c23b5dc7365acdf986a.pdf",
     "static/media/Bookin.png": "/portfolio/static/media/Bookin.e4b97d059007c1318e57.png",
     "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.9f439ed0a077731db68b.png",
     "static/media/photo.png": "/portfolio/static/media/photo.ada2f714b7264c567676.png",
     "index.html": "/portfolio/index.html",
     "main.9dd2106c.css.map": "/portfolio/static/css/main.9dd2106c.css.map",
-    "main.c4571557.js.map": "/portfolio/static/js/main.c4571557.js.map"
+    "main.70101eed.js.map": "/portfolio/static/js/main.70101eed.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd2106c.css",
-    "static/js/main.c4571557.js"
+    "static/js/main.70101eed.js"
   ]
 }
